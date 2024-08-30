@@ -4,4 +4,4 @@
 <a href="https://github.com/jananeegovindaraj/holida/" target="_blank"><strong>➥ Live Demo</strong></a>
 </div> <br/><br/>
 <b>Screenshots:</b> <br/><br/>
-<img src="https://github.com/jananeegovindaraj/holida.git/blob/main/readme%20images/readme-image.jpg"></img>
+<img src="https://github.com/jananeegovindaraj/holida.git/blob/readme images-png"></img>
